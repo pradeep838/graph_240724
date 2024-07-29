@@ -3,3 +3,5 @@ project/**
 bin/**
 .classpath
 .settings
+.DS_STORE
+.DS_store
